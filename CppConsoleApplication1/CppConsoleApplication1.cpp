@@ -3,25 +3,20 @@
 
 using namespace std;
 
-void line(), message(); //Prototypes
+void pause(); //Prototypes
 
 int main()
 {
-    cout << "Hello World!" << endl; 
-	line();
-	message();
-	line();
-	cout << "At the end" << endl;
+	cout << endl << "Dear reader, "
+		<< endl << "have a ";
+	pause();
+	cout << "!" << endl;
 
 	return 0;
 }
 
-void line()
+void pause()
 {
-	cout << "-----" << endl;
-}
-
-void message()
-{
-	cout << "In function message()." << endl;
+	cout << 
+		"BREAK";
 }
