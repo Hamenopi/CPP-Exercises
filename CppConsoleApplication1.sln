@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise3", "CppConsoleAppl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise1", "Exercise1\Exercise1.vcxproj", "{03C18422-B665-4A07-899E-5CC0AEE7C78F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise2", "Exercise2\Exercise2.vcxproj", "{BFD82670-769C-410A-86E8-40E0106ED870}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{03C18422-B665-4A07-899E-5CC0AEE7C78F}.Release|x64.Build.0 = Release|x64
 		{03C18422-B665-4A07-899E-5CC0AEE7C78F}.Release|x86.ActiveCfg = Release|Win32
 		{03C18422-B665-4A07-899E-5CC0AEE7C78F}.Release|x86.Build.0 = Release|Win32
+		{BFD82670-769C-410A-86E8-40E0106ED870}.Debug|x64.ActiveCfg = Debug|x64
+		{BFD82670-769C-410A-86E8-40E0106ED870}.Debug|x64.Build.0 = Debug|x64
+		{BFD82670-769C-410A-86E8-40E0106ED870}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFD82670-769C-410A-86E8-40E0106ED870}.Debug|x86.Build.0 = Debug|Win32
+		{BFD82670-769C-410A-86E8-40E0106ED870}.Release|x64.ActiveCfg = Release|x64
+		{BFD82670-769C-410A-86E8-40E0106ED870}.Release|x64.Build.0 = Release|x64
+		{BFD82670-769C-410A-86E8-40E0106ED870}.Release|x86.ActiveCfg = Release|Win32
+		{BFD82670-769C-410A-86E8-40E0106ED870}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
